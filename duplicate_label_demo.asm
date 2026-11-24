@@ -1,0 +1,5 @@
+(AGAIN)
+@AGAIN
+0;JMP
+(AGAIN)
+@0
